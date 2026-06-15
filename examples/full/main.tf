@@ -1,5 +1,6 @@
 module "vpc" {
   source         = "CloudAstro/vpc/opentelekomcloud"
+  version        = "1.1.0"
   name           = "vpc-example"
   description    = "description"
   cidr           = "10.10.0.0/24"

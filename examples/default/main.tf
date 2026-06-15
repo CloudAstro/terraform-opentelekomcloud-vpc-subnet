@@ -1,7 +1,8 @@
 module "vpc" {
-  source = "CloudAstro/vpc/opentelekomcloud"
-  name   = "vpc-example"
-  cidr   = "10.10.0.0/24"
+  source  = "CloudAstro/vpc/opentelekomcloud"
+  version = "1.1.0"
+  name    = "vpc-example"
+  cidr    = "10.10.0.0/24"
 }
 
 module "subnet" {
