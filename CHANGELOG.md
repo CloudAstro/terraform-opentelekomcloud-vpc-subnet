@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc-subnet/compare/v1.1.0...v1.1.1) (2026-06-18)
+
+
+### Bug Fixes
+
+* use latest vpc module release ([7da7aae](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc-subnet/commit/7da7aae94e20e76d4b617bf12ec4ad269e6b5b04))
+
 ## [1.1.0](https://github.com/CloudAstro/terraform-opentelekomcloud-vpc-subnet/compare/v1.0.0...v1.1.0) (2026-06-17)
 
 
